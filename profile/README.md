@@ -38,7 +38,3 @@ The NHACP specification can be found [here](https://github.com/NHACP-IF/NHACP-sp
 * @thorpej's [nabud](https://github.com/thorpej/nabud) includes a
   *nabuclient* test program that implements a simple NHACP client
   for the purpose of testing the *nabud* server.
-
-## Coming soon
-
-* Links to known NHACP client implementations.
