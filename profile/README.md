@@ -15,7 +15,18 @@ compatibility.
 
 The NHACP specification can be found [here](https://github.com/NHACP-IF/NHACP-specification).
 
+## Known NHACP server implementations
+
+* @retrotechchris's [JavaNabuAdapter](https://github.com/cml37/JavaNabuAdapter),
+  written in Java.
+* Nick Daniels' [NABU NetSim](https://github.com/GryBsh/NabuNetworkEmulator),
+  written in C#.
+* [NabuNetwork.com Internet Adaptor](https://github.com/nabunetwork/Adaptor),
+  written in C#.
+* Hans Hübner's [ovomorph](https://github.com/hanshuebner/ovomorph), written
+  in Lisp.
+* @thorpej's [nabud](https://github.com/thorpej/nabud), written in C.
+
 ## Coming soon
 
-* Links to known NHACP server implementations.
 * Links to known NHACP client implementations.
