@@ -11,7 +11,11 @@ and this forum exists to coordinate efforts among implementors of NHACP
 servers and clients to define new NHACP protocol features and ensure
 compatibility.
 
-Coming soon:
-* The NHACP specification repository.
+## The NHACP specification
+
+The NHACP specification can be found [here](https://github.com/NHACP-IF/NHACP-specification).
+
+## Coming soon
+
 * Links to known NHACP server implementations.
 * Links to known NHACP client implementations.
