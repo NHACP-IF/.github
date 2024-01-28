@@ -11,6 +11,9 @@ and this forum exists to coordinate efforts among implementors of NHACP
 servers and clients to define new NHACP protocol features and ensure
 compatibility.
 
+There is a dedicated [NHACP channel](https://discord.gg/q65D89cs) on the
+*Z80 Retro!* Discord.
+
 ## The NHACP specification
 
 The NHACP specification can be found [here](https://github.com/NHACP-IF/NHACP-specification).
