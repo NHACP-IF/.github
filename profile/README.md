@@ -12,7 +12,8 @@ servers and clients to define new NHACP protocol features and ensure
 compatibility.
 
 There is a dedicated [NHACP channel](https://discord.com/channels/1010951092277874791/1199740141372198964) on the
-*Z80 Retro!* Discord.
+*Z80 Retro!* Discord.  Here is a [permanent invitation link](https://discord.gg/jf73DRZvh5)
+if you're not already on the *Z80 Retro!* Discord.
 
 ## The NHACP specification
 
